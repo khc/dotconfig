@@ -4,7 +4,8 @@ font-size = 14
 font-thicken = true
 background = 101020
 foreground = f5f7fa
-background-opacity = 0.9858066633
+background-opacity = 0.99
+background-blur = macos-glass-clear
 cursor-color = bbbbbb
 cursor-text = ffffff
 selection-background = b5d5ff
@@ -18,6 +19,7 @@ window-height = 66
 window-padding-x = 10
 window-padding-y = 10
 window-padding-color = background
+macos-titlebar-style = tabs
 palette = 0=#000000
 palette = 1=#ed5565
 palette = 2=#8cc152
